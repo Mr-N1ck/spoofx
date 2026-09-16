@@ -86,14 +86,13 @@ sudo python3 mac_spoofer.py
 
 ---
 
-## 🎥 Proof of Concept & Verification
+## 🎥 Proof of Concept & Live Demonstration
 
-> **Note:** Terminal logs and interface state transition recordings are documented in [`docs/`](docs/) and [`poc/`](poc/).
+![SpoofX MACForge Live Demonstration](docs/demo.gif)
 
-<!-- User Demo Placement Zone -->
-```
-[ Drop your demo.gif or demo.mp4 recording here: docs/demo.gif ]
-```
+### 📊 Demonstration Artifacts
+- **High-Resolution Terminal Capture:** [`docs/preview.png`](docs/preview.png)
+- **High-Definition Demo Video:** [`docs/demo.mp4`](docs/demo.mp4)
 
 ---
 
